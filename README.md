@@ -9,4 +9,6 @@ e.g.: ./downMatterhorn.sh https://mh-engage.ltcc.tuwien.ac.at/engage/ui/watch.ht
 
 Tested on Xubuntu 16.04
 
-Needed dependency _xmlindent_.
+Required dependencies: 
+
+* xmlindent
